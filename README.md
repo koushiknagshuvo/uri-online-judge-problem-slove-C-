@@ -1,2 +1,2 @@
-# uri online judge problem slove-C++
-uri online judge problem slove in C++
+# URI Online Judge Problem Slove-C++
+URI Online Judge Problem Slove in C++
